@@ -13,7 +13,7 @@ Alguns dos conteúdos abordados, conq por este repositório são:
 
 # Contribuidores
 
-[Jackson Osvaldo](https://github.com/JacksonOsvaldo)
-[Luis Louro](https://github.com/lapisdecor)
+- [Jackson Osvaldo](https://github.com/JacksonOsvaldo)
+- [Luis Louro](https://github.com/lapisdecor)
 
 
