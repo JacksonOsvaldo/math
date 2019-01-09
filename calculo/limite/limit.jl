@@ -1,5 +1,13 @@
-""" calcula o limite do polinomio num ponto x a partir de aproximações sucessivas ao valor da função no ponto"""
+#!/usr/bin/julia
+#-*- ecoding: utf-8 -*-
 
+
+"""
+calcula o limite do polinomio num ponto x a partir de aproximações sucessivas ao valor da função no ponto
+"""
+
+
+#func = readline('Inserir Função: ')
 
 f(x) = 2x^2 - 3x + 1
 
@@ -12,7 +20,7 @@ function lim(fun::Function, x)
 
     for i in inf:accuracy:sup
         if i == x
-            continue             
+            continue
         end
         y = fun(i)
         println(y)
